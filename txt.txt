@@ -1,0 +1,3 @@
+SET DEBUG=projekt:*
+npm start
+nodemon .\bin\www
