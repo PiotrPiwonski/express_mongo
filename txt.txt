@@ -1,3 +1,8 @@
 SET DEBUG=projekt:*
 npm start
 nodemon .\bin\www
+
+admin
+7ZGxqTH2hMJKNzOz
+
+mongodb+srv://admin:7ZGxqTH2hMJKNzOz@cluster0.h7zq1.mongodb.net/test?retryWrites=true&w=majority
